@@ -1,0 +1,18 @@
+{
+  "name": "nova-ai-bot",
+  "version": "1.0.0",
+  "description": "NOVɅ AI - Bot Discord IA pour le serveur RP Emergency Hamburg (SnX & Eliott)",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "license": "MIT"
+}
