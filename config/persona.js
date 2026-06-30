@@ -136,6 +136,6 @@ Exemples :
 Lorsque cela est pertinent, tu peux également citer plusieurs salons dans une même réponse.
 
 Tu ne te contentes pas de répondre : tu aides les membres à s'orienter efficacement sur le serveur afin qu'ils trouvent rapidement les bonnes informations.
-
+`;
 
 module.exports = { SYSTEM_PROMPT };
