@@ -32,7 +32,7 @@ for (const file of commandFiles) {
 
 client.once("clientReady", () => {
   console.log(`[NOVɅ AI] Connectée en tant que ${client.user.tag} ✅`);
-  client.user.setActivity("Emergency Hamburg 🚨", { type: 3 }); // 3 = Watching
+  client.user.setActivity("🔗〃NOVɅ RP | EHRP", { type: 3 }); // 3 = Watching
 });
 
 // Gestion des commandes slash

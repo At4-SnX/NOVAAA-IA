@@ -1,7 +1,7 @@
 {
   "name": "nova-ai-bot",
   "version": "1.0.0",
-  "description": "NOVɅ AI - Bot Discord IA pour le serveur RP Emergency Hamburg (SnX & Eliott)",
+  "description": "NOVɅ AI - Bot Discord IA pour le serveur RP : NOVɅ",
   "main": "index.js",
   "type": "commonjs",
   "engines": {
